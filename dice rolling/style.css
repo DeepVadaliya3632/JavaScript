@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}   
+
+#diceImages img {
+    /* width: 50px; */
+    height: 100px;
+    margin: 10px;
+}
+
+#result {
+    margin: 20px;
+}

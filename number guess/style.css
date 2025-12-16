@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    font-size: 24px;
+}
+
+#btn {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+}
+
+#inputnum {
+    font-size: 24px;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 2px solid #ccc;
+}
+
+label {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+#sml {
+    color: red;
+    font-size: 15px
+}

@@ -1,0 +1,44 @@
+#num {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+#gendiv {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#input {
+    text-align:center;
+}
+
+#minSmall {
+    color: red;
+    margin-left: 100px;
+}
+
+#maxSmall {
+    color: red;
+    margin-left: 100px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
